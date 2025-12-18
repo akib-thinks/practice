@@ -37,7 +37,3 @@ build/
 
 ### Mac OS ###
 .DS_Store
-
-### Ignore sensitive information ###
-secret.ini
-credentials.json
