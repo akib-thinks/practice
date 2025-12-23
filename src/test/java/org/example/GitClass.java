@@ -5,6 +5,5 @@ public class GitClass {
         System.out.println("Welcome to the Git World !");
         System.out.println("Welcome to the Git World !");
         System.out.println("Welcome to the Git World !");
-        System.out.println("Welcome to the Git World !");
     }
 }
